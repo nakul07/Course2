@@ -49,6 +49,9 @@ body{
 .mt-10{
     margin-top: 10px;
 }
+.mt-20{
+    margin-top: 20px;
+}
 .tab-content{
     border-bottom: 1px solid #ddd;
     border-left: 1px solid #ddd;
